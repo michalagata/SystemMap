@@ -1,2 +1,2 @@
 # SystemMap
-System Architecture MApping Application
+System Architecture Mapping Application
